@@ -1,2 +1,2 @@
-#This is a test code.
+#This is the first code.
 print('hello word!')
